@@ -3,4 +3,13 @@ projects/
 sessions/
 shell-snapshots/
 cache/
+.last-cleanup
+backups/
+daemon.log
+daemon/
+file-history/
+history.jsonl
+jobs/
+local.json
+settings.json
 
